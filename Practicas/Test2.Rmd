@@ -1,0 +1,13 @@
+---
+title: "Mi Primer Documento R Markdown"
+author: "Baltazar"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Introducción
+
+Este es un documento R Markdown de ejemplo.
+
+```{r}
+summary(cars)
