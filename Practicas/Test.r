@@ -9,3 +9,4 @@ media <- mean(mi_vector)
 # Imprimir la media
 print(vector)
 print(media)
+
