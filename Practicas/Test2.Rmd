@@ -9,5 +9,5 @@ output: html_document
 
 Este es un documento R Markdown de ejemplo.
 
-```{r}
+```{r }
 summary(cars)
