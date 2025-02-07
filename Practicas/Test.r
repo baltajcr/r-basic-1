@@ -13,3 +13,5 @@ opar <- par(mfrow = c(2,2), oma = c(0, 0, 1.1, 0))
 plot(lm.D9, las = 1)      # Residuals, Fitted, ...
 par(opar)
 ### less simple examples in "See Also" above
+
+magic(6)
